@@ -1,6 +1,7 @@
 ## Cloudflare Playwright MCP
 
 [![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/cloudflare/playwright-mcp/tree/main/cloudflare/example)
+[![smithery badge](https://smithery.ai/badge/@tecnologiacomigo/playwright-mcp)](https://smithery.ai/server/@tecnologiacomigo/playwright-mcp)
 
 ### Overview
 
